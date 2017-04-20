@@ -1,5 +1,5 @@
-# Hello,
-## World!
+# :neckbeard: Hello,
+## World! :neckbeard:
 
 [My CIS 111 Website on UOregon](http://pages.uoregon.edu/corinnc/111/)
 
